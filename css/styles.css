@@ -11,11 +11,11 @@ body {
   font-style: normal;
   font-size: 20px;
   line-height: 150%;
-  background-color: #dff6f6;
+  background-color: #232424;
   background-image: url("../img/bg.png");
   background-size: 800px;
   background-repeat: repeat;
-  color: #305050;
+  color: #eff4f4;
 }
 
 .logo {
