@@ -1,4 +1,4 @@
-# guess-the-word-main
+# guess-the-word
  ![Pot Luck Guest List](img/guess-list-snap.png)
 
 
